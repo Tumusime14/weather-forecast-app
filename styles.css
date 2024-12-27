@@ -66,12 +66,12 @@ body{
         font-weight: bold;
         font-size: 2rem;
     }
-    .imojDisplay{
+    .emojDisplay{
         margin: 0;
         font-size: 6.5rem;
     }
     .errorDisplay{
         font-size: 2rem;
         font-weight: bold;
-        color: red;
+        color: rgb(6, 0, 0);
     }
